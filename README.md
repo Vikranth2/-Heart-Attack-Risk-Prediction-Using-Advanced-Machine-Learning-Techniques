@@ -1,0 +1,2 @@
+# -Heart-Attack-Risk-Prediction-Using-Advanced-Machine-Learning-Techniques
+Developed a heart attack prediction system using real-world cardiovascular datasets and ML models including SVM, Random Forest, XGBoost, and Stacking. Built a preprocessing pipeline with imputation, encoding, standardization, and SMOTE. Tuned models using GridSearchCV, achieving 97.5% accuracy and 0.97 ROC-AUC with XGBoost.
